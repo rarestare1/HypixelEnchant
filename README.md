@@ -6,6 +6,5 @@ You need NEU mod for this script to work.
 ###### F2=Reload
 ###### F3=Both sequence and color
 ###### F4=Close script
-# Features
-Autofishing and maybe more will come in the future.
+
 
